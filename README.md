@@ -1,43 +1,88 @@
-# 👋 Hi there, I'm Francis! 
+# 👋 Hi, I’m Francis Ganyo
 
-I'm a **passionate and curious software developer** currently on a journey to sharpen my skills and build impactful solutions. I'm always eager to learn, explore new technologies, and contribute to meaningful projects.
+I’m a **software developer** with a strong interest in building **scalable, real‑world solutions** across web, fintech, and automation. I focus on writing clean, maintainable code and continuously improving my engineering depth through hands‑on projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 I'm a **mediating-level software developer** constantly growing and learning.
-- 🎓 Currently studying in college, deepening my understanding of software development fundamentals and modern tools.
-- 💻 I work primarily with:
-  - **Java** | **C++** | **Node.js**
-  - **React.js** | **Python** | **Django**
-- 🌱 Actively exploring backend development, full-stack web apps, and cloud integrations.
-- 🤝 I'm open to collaborating on:
-  - Open-source projects
-  - Startups or academic collaborations
-  - Tech-for-good or student-oriented platforms
-- 📬 How to reach me:  
-  [Email me](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Odhisika)
+* 🎓 College student with a solid foundation in **computer science and software development**
+* 💻 Full‑stack oriented, with stronger emphasis on **backend systems and APIs**
+* 🧠 Continuously improving through project‑based learning and production‑focused builds
+* 🌍 Interested in **fintech, Web3, SaaS platforms, and developer tools**
+* 🤝 Open to:
+
+  * Open‑source collaboration
+  * Startup and freelance projects
+  * Research or academic‑related software projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-```bash
-Languages:    Java, C++, Python, JavaScript
-Frameworks:   Node.js, Django, React.js
-Databases:    MongoDB, PostgreSQL, SQLite
-Tools:        Git, VSCode, Postman, Docker (learning), Figma (UI/UX)
+### **Programming Languages**
 
+* Java
+* C++
+* Python
+* JavaScript (ES6+)
 
-⚡ Fun Fact
-I believe in learning by doing — whether it's building small projects, debugging, or collaborating on real-world problems. Let's build something awesome together!
+### **Backend Development**
 
-<!--- Odhisika/Odhisika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
+* Node.js (REST APIs, async workflows)
+* Django (MVC architecture, authentication, ORM)
+* Django REST Framework
 
+### **Frontend Development**
 
+* React.js
+* HTML5, CSS3
+* Responsive UI design
 
+### **Databases**
+
+* PostgreSQL
+* MongoDB
+* SQLite
+
+### **DevOps & Tools**
+
+* Git & GitHub (version control, collaboration)
+* VS Code
+* Postman
+* Docker (learning & basic containerization)
+
+### **Other Skills & Domains**
+
+* API design & integration
+* Authentication & security basics (JWT, 2FA concepts)
+* WhatsApp & messaging bot logic (conceptual & implementation)
+* Fintech & P2P crypto systems (process design & automation)
+* UI/UX collaboration using Figma
 
 ---
 
-Want me to add a GitHub stats card, contribution graph, or technologies badge section for flair?
+## 📌 Current Focus
+
+* Building **full‑stack web applications** with Django and React
+* Designing **backend systems** that scale and handle real users
+* Exploring **cloud deployment and containerized workflows**
+* Learning best practices for **secure fintech and Web3 platforms**
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:francisganyo64@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/francisganyo)
+* 🧑‍💻 GitHub: [https://github.com/Odhisika](https://github.com/Odhisika)
+
+---
+
+## ⚡ Philosophy
+
+I believe in **learning by building**. Every project—small or large—is an opportunity to improve system design, code quality, and problem‑solving skills. I enjoy turning ideas into working products and collaborating with others to create meaningful software.
+
+---
+
+> *“Code is only as valuable as the problem it solves.”*
